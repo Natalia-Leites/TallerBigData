@@ -1,23 +1,20 @@
-DepId,DepDsc,idRegion
-1,MONTEVIDEO                              ,1
-2,ARTIGAS                                 ,
-3,CANELONES                               ,1
-4,CERRO LARGO                             ,
-5,COLONIA                                 ,
-6,DURAZNO                                 ,
-7,FLORES                                  ,
-8,FLORIDA                                 ,
-9,LAVALLEJA                               ,
-10,MALDONADO                               ,
-11,PAYSANDU                                ,
-12,RIO NEGRO                               ,
-13,RIVERA                                  ,
-14,ROCHA                                   ,
-15,SALTO                                   ,
-16,SAN JOSE                                ,1
-17,SORIANO                                 ,
-18,TACUAREMBO                              ,
-19,TREINTA Y TRES                          ,
-20,TODOS LOS DEPARTAMENTOS                 ,
-21,INTERIOR                                ,
-9999,DESCONOCIDO (Prod)                      ,
+id_Dpto,Descripcion,id_Region
+1,MONTEVIDEO,2
+2,ARTIGAS,1
+3,CANELONES,2
+4,CERROLARGO,3
+5,COLONIA,4
+6,DURAZNO,5
+7,FLORES,5
+8,FLORIDA,5
+9,LAVALLEJA,3
+10,MALDONADO,3
+11,PAYSANDU,1
+12,RIONEGRO,4
+13,RIVERA,1
+14,ROCHA,3
+15,SALTO,1
+16,SANJOSE,2
+17,SORIANO,4
+18,TACUAREMBO,5
+19,TREINTAYTRES,3

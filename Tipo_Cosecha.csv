@@ -1,0 +1,6 @@
+id_cultivo,desc,id_Semana_Cosecha,id_Mes_Cosecha,temp_min,temp_max,agua_min,agua_max,mes_siembra,mes_cosecha,Departamentos,rend
+"1,Arroz,12,3,20,35,1200,1500,10,3,""TreintayTres,Rocha,Artigas"",9500"
+"2,Trigo,52,12,5,25,400,600,5,12,""Colonia,Soriano,SanJose"",5000"
+"3,Soja,17,4,15,30,450,700,10,4,""Soriano,Colonia,RioNegro"",2400"
+"4,Naranja,21,5,12,30,600,1200,8,6,""Salto,Paysandu"",25000"
+"5,Maiz,17,4,15,30,500,800,10,4,""Soriano,Colonia,RioNegro"",7000"
